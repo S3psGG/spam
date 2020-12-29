@@ -6,6 +6,9 @@ apt update && apt upgrade
 apt install git -y
 ```
 ```
+apt install nodejs -y
+```
+```
 git clone https://github.com/s3ps/spam
 ```
 ```
