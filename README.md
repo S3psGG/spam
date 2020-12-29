@@ -1,4 +1,4 @@
-- No terminal use
+## Como Baixar
 ```
 apt update && apt upgrade
 ```
@@ -18,9 +18,7 @@ chmod +x *
 bash baixar.sh
 ```
 
-## Como executar
-
-- Ainda no terminal ultilize
+## Como Usar
 ```
 node .
 ```
