@@ -1,4 +1,3 @@
-apt install nodejs -y
 npm i cli-progress
 npm i readline-sync
 npm i colors
